@@ -151,4 +151,4 @@ $ npm run test:cov
 
 ## License
 
-Xbolg is [MIT licensed](MIT LICENSE)
+Xbolg is [MIT licensed](LICENSE)
